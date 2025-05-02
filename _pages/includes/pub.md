@@ -5,7 +5,6 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement 2025</div><img src='images/measure2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 [Coal Gangue Recognition in the Strong Background Noise using Two-level Auditory Feature Fusion with Attention Mechanism](https://www.sciencedirect.com/science/article/abs/pii/S026322412500987X) \\
 Yang Z, Wang SB, Yang SG, Liu SY, Zhang ZP, **Liu HG***
 
@@ -15,12 +14,11 @@ Yang Z, Wang SB, Yang SG, Liu SY, Zhang ZP, **Liu HG***
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
-Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
+[Intelligent Coal Gangue Identification: A Novel Amplitude Frequency Sensitive Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0957417425005020) \\ 
+Zhang ZP, Zhu ZC, Meng B, Yang Z, Wu MK, Cheng XY, Li BH, **Liu HG***.
 
 [**Project**](https://boostprompt.github.io/boostprompt/) 
   - This work has been deployed on many TikTok products.
@@ -28,12 +26,11 @@ Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Eng. Appl. Artif. Intell. 2024</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
+[CFENet: A Contrastive Frequency-sensitive Learning Method for Gas-insulated Switch-gear Fault Detection under Varying Operating Conditions using Acoustic Signals](https://www.sciencedirect.com/science/article/abs/pii/S095219762400993X) \\
+Zhang ZP, **Liu HG***, Shao YY, et al.
 
 - Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
 - DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
@@ -42,12 +39,11 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEAS SCI TECHNOL 2024</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
+[Hierarchical Spiking Neural Network Auditory Feature Based Dry-type Transformer Fault Diagnosis using Convolutional Neural Network](https://iopscience.iop.org/article/10.1088/1361-6501/ad11cb) \\
+Zhao HY, Yang Y, **Liu HG***, et al.
 
 [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
 </div>
