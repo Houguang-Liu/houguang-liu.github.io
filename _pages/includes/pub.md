@@ -7,7 +7,7 @@
 
 
 [Coal Gangue Recognition in the Strong Background Noise using Two-level Auditory Feature Fusion with Attention Mechanism](https://www.sciencedirect.com/science/article/abs/pii/S026322412500987X) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+Yang Z, Wang SB, Yang SG, Liu SY, Zhang ZP, **Liu HG***
 
 [**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
 
