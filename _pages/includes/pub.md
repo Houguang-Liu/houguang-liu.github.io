@@ -9,10 +9,11 @@
 [Coal gangue recognition in the strong background noise using two-level auditory feature fusion with attention mechanism](https://www.sciencedirect.com/science/article/abs/pii/S026322412500987X) \\
 Yang Z, Wang SB, Yang SG, Liu SY, Zhang ZP, **Liu HG***
 
+[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+
 - An auditory model is introduced into the coal gangue recognition task.
 - Two-level auditory features were extracted, which better express the information.
 - A Fusion recognition model based on attention mechanism was constructed.
-- Advandced zero-shot voice cloning model.
   </div>
   </div>
 
@@ -24,6 +25,7 @@ Yang Z, Wang SB, Yang SG, Liu SY, Zhang ZP, **Liu HG***
 **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 
 [**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+
   - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
 </div>
 </div>
