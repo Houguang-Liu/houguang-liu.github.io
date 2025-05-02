@@ -14,13 +14,14 @@ Yang Z, Wang SB, Yang SG, Liu SY, Zhang ZP, **Liu HG***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expert Syst. Appl. 2025</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Intelligent Coal Gangue Identification: A Novel Amplitude Frequency Sensitive Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0957417425005020) \\ 
 Zhang ZP, Zhu ZC, Meng B, Yang Z, Wu MK, Cheng XY, Li BH, **Liu HG***.
 
 [**Project**](https://boostprompt.github.io/boostprompt/) 
+
   - This work has been deployed on many TikTok products.
   - Advandced zero-shot voice cloning model.
 </div>
@@ -39,7 +40,7 @@ Zhang ZP, **Liu HG***, Shao YY, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEAS SCI TECHNOL 2024</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Meas. Sci. Technol.2024</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hierarchical Spiking Neural Network Auditory Feature Based Dry-type Transformer Fault Diagnosis using Convolutional Neural Network](https://iopscience.iop.org/article/10.1088/1361-6501/ad11cb) \\
