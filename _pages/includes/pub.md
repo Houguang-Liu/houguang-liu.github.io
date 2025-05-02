@@ -10,9 +10,13 @@
 Yang Z, Wang SB, Yang SG, Liu SY, Zhang ZP, **Liu HG***
 
 - An auditory model is introduced into the coal gangue recognition task.
+
 - Two-level auditory features were extracted, which better express the information.
+
 - A Fusion recognition model based on attention mechanism was constructed.
+
 - Experimentation results show that the proposed method has superiority in filtering noise.
+  
   </div>
   </div>
 

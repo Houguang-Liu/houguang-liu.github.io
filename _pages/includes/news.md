@@ -5,5 +5,5 @@
 - *2025.02*: 🎉 One paper are accepted by ***Expert Systems with Applications***
 - *2025.01*:  One paper are accepted by ***Mechanical Systems and Signal Processing***
 - *2025.01*:  One paper are accepted by ***IEEE Transactions on Automation Science and Engineering***
-- *2024.11*: Three students (Yinxin Kou, Zipeng Zhang, Zheng Yang) got ***National Scholarship*  **.
+- *2024.11*: Three students (Yinxin Kou, Zipeng Zhang, Zheng Yang) got ***National Scholarship***.
 
