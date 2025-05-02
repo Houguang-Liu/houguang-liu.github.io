@@ -4,3 +4,8 @@
 [Mechanical Stimulation Of Cochlea for Treatment Of Hearing Loss: Comparison Between Forward Stimulation and Reverse Stimulation With an Active Cochlear Model](https://www.sciencedirect.com/science/article/abs/pii/S0169260725001385), Liu ZH, Liu HG*, Guo WW, et al.
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Inspiration Robot</div><img src='images/robot.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Mechanical Stimulation Of Cochlea for Treatment Of Hearing Loss: Comparison Between Forward Stimulation and Reverse Stimulation With an Active Cochlear Model](https://www.sciencedirect.com/science/article/abs/pii/S0169260725001385), Liu ZH, Liu HG*, Guo WW, et al.
+</div>
+</div>
