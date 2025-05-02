@@ -27,7 +27,7 @@ Zhang ZP, Zhu ZC, Meng B, Yang Z, Wu MK, Cheng XY, Li BH, **Liu HG***.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Eng. Appl. Artif. Intell. 2024</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Eng. Appl. Artif. Intell. 2024</div><img src='images/cfenet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CFENet: A Contrastive Frequency-sensitive Learning Method for Gas-insulated Switch-gear Fault Detection under Varying Operating Conditions using Acoustic Signals](https://www.sciencedirect.com/science/article/abs/pii/S095219762400993X) \\
