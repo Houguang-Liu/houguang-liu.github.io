@@ -84,9 +84,9 @@ Zhao HY, Yang Y, **Liu HG***, et al.
 
 ## 🎼 Active Middle-ear Implant
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB 2025</div><img src='images/cmpb2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://openreview.net/forum?id=7ERQPyR2eb), Zhenhui Ye, Tianyun Zhong, Yi Ren, et al. <span style="color:red">(Spotlight)</span> [**Project**](https://real3dportrait.github.io/) | [**Code**](https://github.com/yerfor/Real3DPortrait)
+[Mechanical Stimulation Of Cochlea for Treatment Of Hearing Loss: Comparison Between Forward Stimulation and Reverse Stimulation With an Active Cochlear Model](https://www.sciencedirect.com/science/article/abs/pii/S0169260725001385), Liu ZH, Liu HG*, Guo WW, et al.
 </div>
 </div>
 
