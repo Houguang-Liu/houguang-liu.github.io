@@ -1,4 +1,4 @@
-I work at School of Mechatronic Engineering, China University of Mining and Technology as a full professor now in China. 
+I work at School of Mechatronic Engineering, China University of Mining and Technology (中国矿业大学机电工程学院) as a full professor now in China. 
 
 I am now working on high-end minimally invasive medical devices and technologies, vibration noise analysis and control, machine hearing, and machine vision. If you are interested in working with our group, please feel free to email me at [liuhg@cumt.edu.cn](mailto:liuhg@cumt.edu.cn). 
 
