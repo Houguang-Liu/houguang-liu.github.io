@@ -6,7 +6,7 @@
 <div class='paper-box-text' markdown="1">
 
 
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
+[Coal Gangue Recognition in the Strong Background Noise using Two-level Auditory Feature Fusion with Attention Mechanism](https://www.sciencedirect.com/science/article/abs/pii/S026322412500987X) \\
 **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 
 [**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
