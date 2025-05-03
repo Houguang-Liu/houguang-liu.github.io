@@ -103,16 +103,16 @@ Zhao HY, Yang Y, **Liu HG***, et al.
 </div>
 
 
-- `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, et al.
-- `AAAI 2024` [AMD: Autoregressive Motion Diffusion](https://arxiv.org/abs/2305.09381), Bo Han, Hao Peng, Minjing Dong, **Yi Ren**, et al.
-- ``AAAI 2022`` [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, et al. \| [![](https://img.shields.io/github/stars/Dianezzy/ParaLip?style=social&label=ParaLip Stars)](https://github.com/Dianezzy/ParaLip)
-- ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, et al.
-- ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, et al.
+- `Eur J Mech A-solid 2025` [Nonlinear Electromechanical Analysis of Middle Ear Motion and Stability Induced by the Vibrant Soundbridge Coupled to the Stapes Head](https://www.sciencedirect.com/science/article/abs/pii/S0997753825001093), Kou YX, **Liu HG***, Guo WW, et al.
+- `Nonlinear Dyn 2025` [Nonlinear dynamic response and stability of the stapes driven by a floating mass type piezoelectric transducer with a nonlinear coupler](https://link.springer.com/article/10.1007/s11071-025-11168-2), Kou YX, **Liu HG***, Guo WW, et al.
+- ``Comput Speech Lang 2025`` [LRetUNet: A U-Net-based retentive network for single-channel speech enhancement](https://www.sciencedirect.com/science/article/abs/pii/S0885230825000233), Zhang YX, Zhang ZP, Guo WW, Chen W, Liu ZH, **Liu HG**, et al. 
+- ``CDBME 2024`` [Finite element modeling of a piezoelectric actuator coupled to the cochlear round window](https://www.degruyterbrill.com/document/doi/10.1515/cdbme-2024-2105/html), **Liu HG***, Kou YX, Wang J, Thomas Lenarz, Hannes Maier.
+- ``INT J NUMER METH BIO 2024`` [Effect of electromagnetic middle-ear implant simulating sites on the stapes spatial motion: A finite element analysis](https://onlinelibrary.wiley.com/doi/10.1002/cnm.3871), Zhang YX, **Liu HG***, Zhou L, et al.
 
 ## 📚 NVH of Vehicle 
 - ``MSSP 2025`` [A Comprehensive Sound Quality Evaluation Method For Periodic And Transient Nonlinear Noise Utilizing An Optimized Wavelet Scattering Network](https://www.sciencedirect.com/science/article/abs/pii/S0888327025000366), Xu MQ, Zhang S, **Liu HG**, et al.
 - `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
-- ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/uwspeech/)
+- ``仪器仪表学报 2024`` [Sound quality prediction of vehicle interior noise based on physiological structure of human ear 基于人耳生理结构的车内噪声声品质预测](http://femt.cnjournals.com/yqyb/article/abstract/j2413217?st=search), Liu ZH, Zhang B, He ZH, Zhao Y, **Liu HG***
 - ``IJCAI 2020`` [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, et al.
 - ``ACL 2020`` [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
 - ``ACL 2020`` [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
