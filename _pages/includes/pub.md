@@ -82,7 +82,7 @@ Zhao HY, Yang Y, **Liu HG***, et al.
 - ``INTERSPEECH 2020`` [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3139.pdf), Mingjian Chen, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/multispeech/)
 - ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, et al.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
 
-## 🎼 Active Middle-ear Implant
+## 🎼 Active Middle-ear Implant and Speech Enhancement 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB 2025</div><img src='images/cmpb2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -101,7 +101,11 @@ Zhao HY, Yang Y, **Liu HG***, et al.
 [Effect of Electromagnetic Transducer Design Parameters on Round-window Stimulation in Otosclerosis: a Nonlinear Dynamic Analysis](https://link.springer.com/article/10.1007/s11071-025-11149-5), <b>Liu HG</b>, Liu ZH, Liu JS, Thomas Lenarz, Hannes Maier.
 </div>
 </div>
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSV 30</div><img src='images/icsv30.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Loudness Model For Round Window Stimulation Based On Human Ear Physiology](https://icsv30.org/), Liu ZH, <b>Liu HG*</b>, Thomas Lenarz, Hannes Maier.
+</div>
+</div>
 
 - `Eur J Mech A-solid 2025` [Nonlinear Electromechanical Analysis of Middle Ear Motion and Stability Induced by the Vibrant Soundbridge Coupled to the Stapes Head](https://www.sciencedirect.com/science/article/abs/pii/S0997753825001093), Kou YX, **Liu HG***, Guo WW, et al.
 - `Nonlinear Dyn 2025` [Nonlinear dynamic response and stability of the stapes driven by a floating mass type piezoelectric transducer with a nonlinear coupler](https://link.springer.com/article/10.1007/s11071-025-11168-2), Kou YX, **Liu HG***, Guo WW, et al.
