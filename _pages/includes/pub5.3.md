@@ -1,43 +1,10 @@
 
 # 📝 Publications 
-## 🎼 Active Middle-ear Implant and Speech Enhancement 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSV 30</div><img src='images/icsv30.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Loudness Model For Round Window Stimulation Based On Human Ear Physiology](https://icsv30.org/), Liu ZH, <b>Liu HG*</b>, Thomas Lenarz, Hannes Maier.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB 2025</div><img src='images/cmpb2025.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Mechanical Stimulation Of Cochlea for Treatment Of Hearing Loss: Comparison Between Forward Stimulation and Reverse Stimulation With an Active Cochlear Model](https://www.sciencedirect.com/science/article/abs/pii/S0169260725001385), Liu ZH, <b>Liu HG*</b>, Guo WW, et al.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">A-physical 2025</div><img src='images/actuator2025.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Modeling and Analysis of Ear Dynamics with a Round-window Stimulating Active Middle Ear Implant](https://www.sciencedirect.com/science/article/abs/pii/S092442472500370X), Kou YX, Wang J, Liu ZH, Liu SY, Guo WW, Chen W, <b>Liu HG*</b>.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nonlinear Dyn 2025</div><img src='images/nonlinear2025.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Effect of Electromagnetic Transducer Design Parameters on Round-window Stimulation in Otosclerosis: a Nonlinear Dynamic Analysis](https://link.springer.com/article/10.1007/s11071-025-11149-5), <b>Liu HG</b>, Liu ZH, Liu JS, Thomas Lenarz, Hannes Maier.
-</div>
-</div>
-
-
-- `Eur J Mech A-solid 2025` [Nonlinear Electromechanical Analysis of Middle Ear Motion and Stability Induced by the Vibrant Soundbridge Coupled to the Stapes Head](https://www.sciencedirect.com/science/article/abs/pii/S0997753825001093), Kou YX, **Liu HG***, Guo WW, et al.
-- `Nonlinear Dyn 2025` [Nonlinear dynamic response and stability of the stapes driven by a floating mass type piezoelectric transducer with a nonlinear coupler](https://link.springer.com/article/10.1007/s11071-025-11168-2), Kou YX, **Liu HG***, Guo WW, et al.
-- ``Comput Speech Lang 2025`` [LRetUNet: A U-Net-based retentive network for single-channel speech enhancement](https://www.sciencedirect.com/science/article/abs/pii/S0885230825000233), Zhang YX, Zhang ZP, Guo WW, Chen W, Liu ZH, **Liu HG**, et al. 
-- ``CDBME 2024`` [Finite element modeling of a piezoelectric actuator coupled to the cochlear round window](https://www.degruyterbrill.com/document/doi/10.1515/cdbme-2024-2105/html), **Liu HG***, Kou YX, Wang J, Thomas Lenarz, Hannes Maier.
-- ``INT J NUMER METH BIO 2024`` [Effect of electromagnetic middle-ear implant simulating sites on the stapes spatial motion: A finite element analysis](https://onlinelibrary.wiley.com/doi/10.1002/cnm.3871), Zhang YX, **Liu HG***, Zhou L, et al.
-
 ## 🎙 Machine Hearing and Vision
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement 2025</div><img src='images/measure2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [Coal Gangue Recognition in the Strong Background Noise using Two-level Auditory Feature Fusion with Attention Mechanism](https://www.sciencedirect.com/science/article/abs/pii/S026322412500987X) \\
 Yang Z, Wang SB, Yang SG, Liu SY, Zhang ZP, **Liu HG***
 
@@ -115,13 +82,38 @@ Zhao HY, Yang Y, **Liu HG***, et al.
 - ``INTERSPEECH 2020`` [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3139.pdf), Mingjian Chen, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/multispeech/)
 - ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, et al.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
 
-## 📚 NVH of Vehicle 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">先进NVH技术创新论坛</div><img src='images/NVHGD.jpg' alt="sym" width="100%"></div></div>
+## 🎼 Active Middle-ear Implant and Speech Enhancement 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB 2025</div><img src='images/cmpb2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Sound Quality Prediction of vehicle Interior Noise and Acoustic Event Recognition Based on Auditory Physiological Structure](https://icsv30.org/), <b>Liu HG*</b>, Brian C.J. Moore, Zhang B, Hannes Maier, Thomas Lenarz.
+[Mechanical Stimulation Of Cochlea for Treatment Of Hearing Loss: Comparison Between Forward Stimulation and Reverse Stimulation With an Active Cochlear Model](https://www.sciencedirect.com/science/article/abs/pii/S0169260725001385), Liu ZH, <b>Liu HG*</b>, Guo WW, et al.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">A-physical 2025</div><img src='images/actuator2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Modeling and Analysis of Ear Dynamics with a Round-window Stimulating Active Middle Ear Implant](https://www.sciencedirect.com/science/article/abs/pii/S092442472500370X), Kou YX, Wang J, Liu ZH, Liu SY, Guo WW, Chen W, <b>Liu HG*</b>.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nonlinear Dyn 2025</div><img src='images/nonlinear2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Effect of Electromagnetic Transducer Design Parameters on Round-window Stimulation in Otosclerosis: a Nonlinear Dynamic Analysis](https://link.springer.com/article/10.1007/s11071-025-11149-5), <b>Liu HG</b>, Liu ZH, Liu JS, Thomas Lenarz, Hannes Maier.
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSV 30</div><img src='images/icsv30.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Loudness Model For Round Window Stimulation Based On Human Ear Physiology](https://icsv30.org/), Liu ZH, <b>Liu HG*</b>, Thomas Lenarz, Hannes Maier.
+</div>
+</div>
+
+- `Eur J Mech A-solid 2025` [Nonlinear Electromechanical Analysis of Middle Ear Motion and Stability Induced by the Vibrant Soundbridge Coupled to the Stapes Head](https://www.sciencedirect.com/science/article/abs/pii/S0997753825001093), Kou YX, **Liu HG***, Guo WW, et al.
+- `Nonlinear Dyn 2025` [Nonlinear dynamic response and stability of the stapes driven by a floating mass type piezoelectric transducer with a nonlinear coupler](https://link.springer.com/article/10.1007/s11071-025-11168-2), Kou YX, **Liu HG***, Guo WW, et al.
+- ``Comput Speech Lang 2025`` [LRetUNet: A U-Net-based retentive network for single-channel speech enhancement](https://www.sciencedirect.com/science/article/abs/pii/S0885230825000233), Zhang YX, Zhang ZP, Guo WW, Chen W, Liu ZH, **Liu HG**, et al. 
+- ``CDBME 2024`` [Finite element modeling of a piezoelectric actuator coupled to the cochlear round window](https://www.degruyterbrill.com/document/doi/10.1515/cdbme-2024-2105/html), **Liu HG***, Kou YX, Wang J, Thomas Lenarz, Hannes Maier.
+- ``INT J NUMER METH BIO 2024`` [Effect of electromagnetic middle-ear implant simulating sites on the stapes spatial motion: A finite element analysis](https://onlinelibrary.wiley.com/doi/10.1002/cnm.3871), Zhang YX, **Liu HG***, Zhou L, et al.
+
+## 📚 NVH of Vehicle 
 - ``MSSP 2025`` [A Comprehensive Sound Quality Evaluation Method For Periodic And Transient Nonlinear Noise Utilizing An Optimized Wavelet Scattering Network](https://www.sciencedirect.com/science/article/abs/pii/S0888327025000366), Xu MQ, Zhang S, **Liu HG**, et al.
 - `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
 - ``仪器仪表学报 2024`` [Sound quality prediction of vehicle interior noise based on physiological structure of human ear 基于人耳生理结构的车内噪声声品质预测](http://femt.cnjournals.com/yqyb/article/abstract/j2413217?st=search), Liu ZH, Zhang B, He ZH, Zhao Y, **Liu HG***
