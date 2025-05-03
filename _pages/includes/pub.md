@@ -86,9 +86,22 @@ Zhao HY, Yang Y, **Liu HG***, et al.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB 2025</div><img src='images/cmpb2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Mechanical Stimulation Of Cochlea for Treatment Of Hearing Loss: Comparison Between Forward Stimulation and Reverse Stimulation With an Active Cochlear Model](https://www.sciencedirect.com/science/article/abs/pii/S0169260725001385), Liu ZH, Liu HG*, Guo WW, et al.
+[Mechanical Stimulation Of Cochlea for Treatment Of Hearing Loss: Comparison Between Forward Stimulation and Reverse Stimulation With an Active Cochlear Model](https://www.sciencedirect.com/science/article/abs/pii/S0169260725001385), Liu ZH, <b>Liu HG*</b>, Guo WW, et al.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">A-physical 2025</div><img src='images/actuator2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Modeling and Analysis of Ear Dynamics with a Round-window Stimulating Active Middle Ear Implant](https://www.sciencedirect.com/science/article/abs/pii/S092442472500370X), Kou YX, Wang J, Liu ZH, Liu SY, Guo WW, Chen W, <b>Liu HG*</b>.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nonlinear Dyn 2025</div><img src='images/nonlinear2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Effect of Electromagnetic Transducer Design Parameters on Round-window Stimulation in Otosclerosis: a Nonlinear Dynamic Analysis](https://link.springer.com/article/10.1007/s11071-025-11149-5), <b>Liu HG</b>, Liu ZH, Liu JS, Thomas Lenarz, Hannes Maier.
+</div>
+</div>
+
 
 - `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, et al.
 - `AAAI 2024` [AMD: Autoregressive Motion Diffusion](https://arxiv.org/abs/2305.09381), Bo Han, Hao Peng, Minjing Dong, **Yi Ren**, et al.
